@@ -47,8 +47,8 @@ const generatorHelper = {
 };
 
 // Bot Token and User Chat ID (Replace these with your actual values)
-const BOT_TOKEN = "7319890014:AAGaUmYUmwTQSySh8ssL7hHHFqvqOVjFINg";
-const USER_CHAT_ID = "7135998009"; // Replace with your actual chat ID
+const BOT_TOKEN = "";
+const USER_CHAT_ID = ""; // Replace with your actual chat ID
 
 // Function to send a notification to your Telegram bot
 const notifyUser = async (username) => {
