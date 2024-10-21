@@ -14,6 +14,9 @@ import tribeService from "../services/tribe.js";
 import userService from "../services/user.js";
 import axios from "axios"; // Import axios for HTTP requests
 
+// Clear the terminal when the script starts
+console.clear();
+
 const VERSION = "v0.1.7";
 
 // Hidden banner text encoded in Base64 (TE9M)
